@@ -1,0 +1,16 @@
+body {
+    background-color: aquamarine;
+    font-family: fantasy;
+}
+h1 {
+    background: rgb(205, 123, 221);
+}
+#list {
+    background-color: rgb(58, 194, 110);
+}
+#webcam {
+    background-color: darksalmon;
+}
+#buttons {
+    background-color: goldenrod;
+}
